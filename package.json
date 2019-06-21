@@ -3,9 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.1.1",
+    "@material-ui/icons": "^4.2.0",
+    "chart.js": "^2.8.0",
+    "json-2-csv": "^3.5.4",
     "react": "^16.8.6",
+    "react-chartjs-2": "^2.7.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-google-maps": "^9.4.5",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "recharts": "^1.6.2",
+    "xml-js": "^1.6.11"
   },
   "scripts": {
     "start": "react-scripts start",
