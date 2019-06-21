@@ -15,10 +15,10 @@ import Paper from '@material-ui/core/Paper';
 import MenuIcon from '@material-ui/icons/Menu';
 import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
 import NotificationsIcon from '@material-ui/icons/Notifications';
-import SimpleList from './List';
+import SimpleList from '../components/List';
 
-import Summary from './Summary';
-import Title from './Title';
+import Summary from '../components/Summary';
+import Title from '../components/Title';
 
 import MapWithAMarkerClusterer from '../components/MapWithAMarkerClusterer';
 
